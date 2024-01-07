@@ -1,5 +1,8 @@
 # Single-Linked-List
 
+## Overview:
+This project demonstrates the implementation of a single linked list in C programming language. A linked list is a fundamental data structure that consists of a sequence of nodes. Each node contains data and a reference (link) to the next node in the sequence. In a single linked list, each node points only to the next node in the sequence, forming a unidirectional chain.
+
 ## Features:
 
 ### Insertion Operations:
